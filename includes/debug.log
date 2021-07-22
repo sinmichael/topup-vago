@@ -1,0 +1,103 @@
+[12598] Order received.
+[12598] Order contains virtual product: iTunes US Gift Card $500
+[12598] iTunes US Gift Card $500 contains evcode: 1011001710170
+[12598000001] SoapClient initialized.
+[12598] (iTunes US Gift Card $500) Topup Vago failed! Insufficient wallet balance; Error result: 108
+---------------------------------------------------------------------------
+[17451] Order received.
+[17451] Order contains virtual product: GOOGLE PLAY GIFT CARD 25 (US)
+[17451] GOOGLE PLAY GIFT CARD 25 (US) contains evcode: 1021002110213
+[17451000001] SoapClient initialized.
+[17451] (GOOGLE PLAY GIFT CARD 25 (US)) Topup Vago failed! One or more parameter missing; Error result: 98
+---------------------------------------------------------------------------
+[17452] Order received.
+[17452] Order contains virtual product: GOOGLE PLAY GIFT CARD 25 (US)
+[17452] GOOGLE PLAY GIFT CARD 25 (US) contains evcode: 1021002110213
+[17452000001] SoapClient initialized.
+[17452] Note set
+[17452] message: SUCCESS
+[17452] instructions: Only use this gift card's code on Google Play. Any other request for the code may be a scam. Visit play.google.com/giftcardscam or call 1-855-466-4438. 
+ 
+To redeem, enter code in the Play Store app or play.google.com.
+[17452] receipt: <RECEIPT><LINES>12</LINES><LINE>              Google Play USA             </LINE><LINE>                    $25                   </LINE><LINE>                PIN NUMBER                </LINE><LINE> ---------------------------------------- </LINE><LINE>             ABCD1406202141001            </LINE><LINE> ---------------------------------------- </LINE><LINE>User Instructions</LINE><LINE> ---------------------------------------- </LINE><LINE>6/21/2021 6:05:11 AM</LINE><LINE>Serial Number: 1406202141001</LINE><LINE>Expiry Date: 14/05/2025</LINE><LINE>TID: 1</LINE></RECEIPT>
+[17452] responseID: 800000019615550
+[17452] result: 0
+[17452] currency: OMR
+[17452] price: 10.661
+[17452] vat: 0.533
+[17452] total_price: 11.19
+[17452] txnReference: 17452000001
+[17452] voucherExpiry: 14/05/2025
+[17452] voucherPIN: ABCD1406202141001
+[17452] voucherSNO: 1406202141001
+[17452] walletBalance: 41.581
+---------------------------------------------------------------------------
+[17453] Logging is set to 
+[17453] Order received.
+[17453] Order contains virtual product: GOOGLE PLAY GIFT CARD 25 (US)
+[17453] GOOGLE PLAY GIFT CARD 25 (US) contains evcode: 1021002110213
+[17453000011] SoapClient initialized.
+[17453] Note set
+[17453] message: SUCCESS
+[17453] instructions: Only use this gift card's code on Google Play. Any other request for the code may be a scam. Visit play.google.com/giftcardscam or call 1-855-466-4438. 
+ 
+To redeem, enter code in the Play Store app or play.google.com.
+[17453] receipt: <RECEIPT><LINES>12</LINES><LINE>              Google Play USA             </LINE><LINE>                    $25                   </LINE><LINE>                PIN NUMBER                </LINE><LINE> ---------------------------------------- </LINE><LINE>             ABCD1406202141008            </LINE><LINE> ---------------------------------------- </LINE><LINE>User Instructions</LINE><LINE> ---------------------------------------- </LINE><LINE>6/23/2021 5:42:57 AM</LINE><LINE>Serial Number: 1406202141008</LINE><LINE>Expiry Date: 14/05/2025</LINE><LINE>TID: 1</LINE></RECEIPT>
+[17453] responseID: 800000019713347
+[17453] result: 0
+[17453] currency: OMR
+[17453] price: 10.661
+[17453] vat: 0.533
+[17453] total_price: 11.19
+[17453] txnReference: 17453000011
+[17453] voucherExpiry: 14/05/2025
+[17453] voucherPIN: ABCD1406202141008
+[17453] voucherSNO: 1406202141008
+[17453] walletBalance: 886.338
+---------------------------------------------------------------------------
+[17454] Logging is set to yes
+[17454] Order received.
+[17454] Order contains virtual product: GOOGLE PLAY GIFT CARD 10 (US)
+[17454] GOOGLE PLAY GIFT CARD 10 (US) contains evcode: 1021001810183
+[17454000011] SoapClient initialized.
+[17454] Note set
+[17454] message: SUCCESS
+[17454] instructions: Only use this gift card's code on Google Play. Any other request for the code may be a scam. Visit play.google.com/giftcardscam or call 1-855-466-4438. 
+ 
+To redeem, enter code in the Play Store app or play.google.com.
+[17454] receipt: <RECEIPT><LINES>12</LINES><LINE>              Google Play USA             </LINE><LINE>                    $10                   </LINE><LINE>                PIN NUMBER                </LINE><LINE> ---------------------------------------- </LINE><LINE>             ABCD1406202138003            </LINE><LINE> ---------------------------------------- </LINE><LINE>User Instructions</LINE><LINE> ---------------------------------------- </LINE><LINE>6/23/2021 5:46:44 AM</LINE><LINE>Serial Number: 1406202138003</LINE><LINE>Expiry Date: 14/05/2025</LINE><LINE>TID: 1</LINE></RECEIPT>
+[17454] responseID: 800000019713364
+[17454] result: 0
+[17454] currency: OMR
+[17454] price: 4.271
+[17454] vat: 0.214
+[17454] total_price: 4.49
+[17454] txnReference: 17454000011
+[17454] voucherExpiry: 14/05/2025
+[17454] voucherPIN: ABCD1406202138003
+[17454] voucherSNO: 1406202138003
+[17454] walletBalance: 881.853
+---------------------------------------------------------------------------
+[17455] Logging is set to no
+[17455] Order received.
+[17455] Order contains virtual product: GOOGLE PLAY GIFT CARD 10 (US)
+[17455] GOOGLE PLAY GIFT CARD 10 (US) contains evcode: 1021001810183
+[17455000011] SoapClient initialized.
+[17455] Note set
+[17455] message: SUCCESS
+[17455] instructions: Only use this gift card's code on Google Play. Any other request for the code may be a scam. Visit play.google.com/giftcardscam or call 1-855-466-4438. 
+ 
+To redeem, enter code in the Play Store app or play.google.com.
+[17455] receipt: <RECEIPT><LINES>12</LINES><LINE>              Google Play USA             </LINE><LINE>                    $10                   </LINE><LINE>                PIN NUMBER                </LINE><LINE> ---------------------------------------- </LINE><LINE>             ABCD1406202138004            </LINE><LINE> ---------------------------------------- </LINE><LINE>User Instructions</LINE><LINE> ---------------------------------------- </LINE><LINE>6/23/2021 5:47:56 AM</LINE><LINE>Serial Number: 1406202138004</LINE><LINE>Expiry Date: 14/05/2025</LINE><LINE>TID: 1</LINE></RECEIPT>
+[17455] responseID: 800000019713372
+[17455] result: 0
+[17455] currency: OMR
+[17455] price: 4.271
+[17455] vat: 0.214
+[17455] total_price: 4.49
+[17455] txnReference: 17455000011
+[17455] voucherExpiry: 14/05/2025
+[17455] voucherPIN: ABCD1406202138004
+[17455] voucherSNO: 1406202138004
+[17455] walletBalance: 877.368
+---------------------------------------------------------------------------
